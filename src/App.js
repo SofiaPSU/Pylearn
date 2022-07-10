@@ -3,7 +3,7 @@ import React from 'react';
 import {BrowserRouter, Routes, Route} from "react-router-dom";
 import Home from "./home";
 import Navbar from "./navbar";
-import HelloWorld from "./HelloWord";
+import HelloWorld from "./HelloWorld";
 //import Debug from "./debug";
 
 
