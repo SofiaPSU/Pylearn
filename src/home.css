@@ -1,0 +1,22 @@
+.learn{
+    color:whitesmoke;
+}
+.debug{
+    color:whitesmoke;
+}
+.learn:link{
+    background-color: none;
+    text-decoration: none;
+}
+.learn:visited{
+    background-color: none;
+    text-decoration: none;
+}
+.debug:link{
+    background-color: none;
+    text-decoration: none;
+}
+.debug:visited{
+    background-color: none;
+    text-decoration: none;
+}

@@ -1,0 +1,18 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Crafty+Girls&display=swap');
+  .wepo-title{
+    font-family : 'Crafty Girls';
+    color: whitesmoke;
+    font-size: 40px;
+   
+    
+}
+
+.wepo-title:link{
+    text-decoration:none;
+    background-color: none;
+}
+.wepo-title:visited{
+    text-decoration:none;
+    background-color: none;
+}
