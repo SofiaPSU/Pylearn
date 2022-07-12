@@ -4,10 +4,14 @@
     font-family : 'Crafty Girls';
     color: whitesmoke;
     font-size: 40px;
+    margin-left: 0;
    
     
 }
-
+.position{
+    float:left;
+    text-align: left;
+}
 .wepo-title:link{
     text-decoration:none;
     background-color: none;
@@ -15,4 +19,9 @@
 .wepo-title:visited{
     text-decoration:none;
     background-color: none;
+}
+.navbar{
+    position:absolute;
+    top:0%;
+    text-align: left;
 }

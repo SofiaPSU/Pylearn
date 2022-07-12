@@ -1,15 +1,16 @@
 import './navbar.css';
 import React from 'react';
-import Container from "@mui/material/Container";
 import {Link} from 'react-router-dom';
 
 
 export default function Navbar(){
     return(
-        <Container >
+        <div className="navbar">
+     <div className="position">
             <Link className="wepo-title" to="/">
                 WEPO '22
             </Link>
-        </Container>
+            </div>
+        </div>
     )
 }

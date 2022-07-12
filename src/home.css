@@ -1,3 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Crafty+Girls&display=swap');
+  .title{
+    font-family : 'Crafty Girls';
+    color: whitesmoke;
+    font-size: 40px;
+  }
+.home{
+    min-height: auto;
+}
 .learn{
     color:whitesmoke;
 }
@@ -19,4 +28,10 @@
 .debug:visited{
     background-color: none;
     text-decoration: none;
+}
+.learn-btn{
+    padding-right:15%;
+}
+.debug-btn{
+    padding-left: 15%;
 }
