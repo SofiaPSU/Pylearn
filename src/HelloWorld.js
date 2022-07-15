@@ -1,4 +1,5 @@
 import React from 'react';
+import './HelloWorld.css';
 
 
 
@@ -6,9 +7,22 @@ export default function HelloWorld(){
     return ( 
             <div>
                 <p> Printing in Python</p>
-          
-            <iframe src="https://trinket.io/embed/python/c8a347c04f" width="500" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen
+            <div class = "grid-container">
+            <div id = "col1">
+            <p>To output or print text in python, use the given formats:  
+            </p>
+            <p>
+                1. print(var) for a variable var
+            </p>
+            <p>
+                2. print("abc") to print out a string with the value "abc"
+            </p>
+            </div>
+            <div>
+            <iframe src="https://trinket.io/embed/python/c8a347c04f" width="500" height="500" align = "center" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen
             title="print"></iframe>   
+            </div>
+            </div>
             </div>   
     );
 }
