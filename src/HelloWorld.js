@@ -8,7 +8,7 @@ export default function HelloWorld(){
             <div>
                 <p> Printing in Python</p>
             <div class = "grid-container">
-            <div id = "col1">
+            <div id = "col1" align = "left">
             <p>To output or print text in python, use the given formats:  
             </p>
             <p>
@@ -19,7 +19,7 @@ export default function HelloWorld(){
             </p>
             </div>
             <div>
-            <iframe src="https://trinket.io/embed/python/c8a347c04f" width="500" height="500" align = "center" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen
+            <iframe src="https://trinket.io/embed/python/b6f3e072ed" width="500" height="500" align = "center" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen
             title="print"></iframe>   
             </div>
             </div>

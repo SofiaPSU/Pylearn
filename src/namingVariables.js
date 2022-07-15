@@ -9,7 +9,7 @@ export default function namingVariables(){
                 <p> Naming Variables in Python</p>
 
             <div class = "grid-container">
-            <div id = "col1">
+            <div id = "col1" align = "left">
             <p>1. Variable names must start with a letter of underscore.</p>
             <p>2. Variable names cannot start with a number or special character.</p>
             <p>1. Variable names can only contain alphanumeric values and underscores.</p>
