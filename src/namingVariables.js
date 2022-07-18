@@ -1,5 +1,6 @@
 import React from 'react';
 import './namingVariables.css';
+import Button from '@mui/material/Button';
 
 
 
@@ -19,6 +20,11 @@ export default function namingVariables(){
             title="print"></iframe>   
             </div>
             </div>
+
+            <Button variant="contained" href="indentation.js">
+            Next
+            </Button>
+    
             </div>   
     );
 }

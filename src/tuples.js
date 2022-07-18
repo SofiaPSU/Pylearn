@@ -1,5 +1,6 @@
 import React from 'react';
 import './tuples.css';
+import Button from '@mui/material/Button';
 
 
 
@@ -23,6 +24,9 @@ export default function tuples(){
             title="print"></iframe>   
             </div>
             </div>
+            <Button variant="contained" href="variableDef.js">
+            Next
+            </Button>
             </div>   
     );
 }
