@@ -25,7 +25,7 @@ export default function HelloWorld(){
             </div>
             </div>
 
-            <Button variant="contained" href="namingVariables.js">
+            <Button variant="contained" href="commenting.js">
             Next
             </Button>
             
