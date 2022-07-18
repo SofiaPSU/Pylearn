@@ -1,5 +1,5 @@
 import React from 'react';
-import './namingVariables.css';
+import './caseSensitivity.css';
 import Button from '@mui/material/Button';
 
 

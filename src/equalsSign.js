@@ -1,5 +1,5 @@
 import React from 'react';
-import './namingVariables.css';
+import './equalsSign.css';
 import Button from '@mui/material/Button';
 
 
