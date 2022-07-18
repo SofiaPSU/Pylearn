@@ -1,7 +1,6 @@
 import React from 'react';
 import './HelloWorld.css';
 import Button from '@mui/material/Button';
-import {Link} from 'react-router-dom';
 
 
 
@@ -26,6 +25,9 @@ export default function HelloWorld(){
             </div>
             </div>
 
+            <Button variant="contained" href="namingVariables.js">
+            Next
+            </Button>
             
             </div>   
     );

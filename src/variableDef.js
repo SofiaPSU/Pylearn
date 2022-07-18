@@ -1,7 +1,6 @@
 import React from 'react';
 import './variableDef.css';
 import Button from '@mui/material/Button';
-import {Link} from 'react-router-dom';
 
 
 
