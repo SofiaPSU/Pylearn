@@ -1,6 +1,7 @@
 import React from 'react';
 import './commenting.css';
 import Button from '@mui/material/Button';
+import { Link } from 'react-router-dom';
 
 
 
@@ -21,8 +22,9 @@ export default function commenting(){
             </div>
             </div>
 
-            <Button variant="contained" href="tuples.js">
-            Next
+            <Button variant="contained" >
+            <Link className="next" to="/tuples"> Next </Link>
+      
             </Button>
     
             </div>   

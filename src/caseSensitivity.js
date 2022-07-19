@@ -1,6 +1,7 @@
 import React from 'react';
 import './caseSensitivity.css';
 import Button from '@mui/material/Button';
+import { Link } from 'react-router-dom';
 
 
 
@@ -20,7 +21,8 @@ export default function caseSensitivity(){
             </div>
             </div>
 
-            <Button variant="contained" href="namingVariables.js">
+            <Button variant="contained" >
+            <Link className="next" to="/namingVariables"> Next </Link>
             Next
             </Button>
     
