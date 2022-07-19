@@ -4,6 +4,7 @@ import {BrowserRouter, Routes, Route} from "react-router-dom";
 import Home from "./home";
 import Navbar from "./navbar";
 import HelloWorld from "./HelloWorld";
+import Commenting from "./commenting";
 //import namingVariables from "./namingVariable";
 //import Debug from "./debug";
 
@@ -20,6 +21,7 @@ function App() {
     <Routes>
       <Route path="/" element={<Home />}/>
       <Route path="/learn" element={<HelloWorld/>}/>
+      <Route path="/commenting" element={<Commenting/>}/>
     </Routes>
   </div>
   </BrowserRouter>

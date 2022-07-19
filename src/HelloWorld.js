@@ -1,7 +1,7 @@
 import React from 'react';
 import './HelloWorld.css';
 import Button from '@mui/material/Button';
-
+import {Link} from 'react-router-dom';
 
 
 export default function HelloWorld(){
@@ -25,8 +25,9 @@ export default function HelloWorld(){
             </div>
             </div>
 
-            <Button variant="contained" href="commenting.js">
-            Next
+            <Button variant="contained">
+            
+            <Link className="next" to="/commenting"> Next </Link>
             </Button>
             
             </div>   
