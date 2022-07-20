@@ -23,7 +23,7 @@ export default function commenting(){
             </div>
 
             <Button variant="contained" >
-            <Link className="next" to="/tuples"> Next </Link>
+            <Link className="next" to="/variableDef"> Next </Link>
       
             </Button>
             <br></br>

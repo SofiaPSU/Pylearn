@@ -26,7 +26,7 @@ export default function tuples(){
             </div>
             </div>
             <Button variant="contained" >
-            <Link className="next" to="/strings"> Next </Link>
+            <Link className="next" to="/ifElseStatements"> Next </Link>
             </Button>
             <br></br>
             <br></br>

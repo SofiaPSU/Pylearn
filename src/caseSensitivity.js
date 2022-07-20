@@ -22,7 +22,7 @@ export default function caseSensitivity(){
             </div>
 
             <Button variant="contained" >
-            <Link className="next" to="/namingVariables"> Next </Link>
+            <Link className="next" to="/strings"> Next </Link>
             </Button>
     
             </div>   
