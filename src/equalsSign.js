@@ -24,7 +24,7 @@ export default function equalsSign(){
             </div>
 
             <Button variant="contained" >
-            <Link className="next" to="/indentation"> Next </Link>
+            <Link className="next" to="/caseSensitivity"> Next </Link>
             </Button>
             <br></br>
             <br></br>

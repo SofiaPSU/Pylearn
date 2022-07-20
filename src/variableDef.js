@@ -23,7 +23,7 @@ export default function variableDef(){
             </div>
             </div>
             <Button variant="contained" >
-            <Link className="next" to="/ifElseStatements"> Next </Link>
+            <Link className="next" to="/namingVariables"> Next </Link>
             </Button>
             <br></br>
             <br></br>

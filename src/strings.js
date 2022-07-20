@@ -22,7 +22,7 @@ export default function strings(){
             </div>
 
             <Button variant="contained" >
-            <Link className="next" to="/variableDef"> Next </Link>
+            <Link className="next" to="/tuples"> Next </Link>
             </Button>
             <br></br>
             <br></br>
