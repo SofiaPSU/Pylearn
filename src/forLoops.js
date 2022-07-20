@@ -20,10 +20,10 @@ export default function forLoops(){
             <p>The values of var would be from <i>start</i> to <i>stop-1</i> skipping over <i>step</i> number of values.</p>
             
             </div>
-            <div>
-            <iframe src="https://trinket.io/embed/python/639d34ddf7" width="500" height="500" align = "right" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen
-            title="print"></iframe>   
-            </div>
+           
+            <iframe src="https://trinket.io/embed/python/639d34ddf7" width="500" height="500"  frameborder="0" marginwidth="0" marginheight="0" allowfullscreen
+            title="print" className='trinket' ></iframe>   
+          
             </div>
             <Button variant="contained" >
             <Link className="next" to="/whileLoops"> Next </Link>
