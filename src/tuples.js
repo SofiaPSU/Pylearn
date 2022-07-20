@@ -8,6 +8,7 @@ import { Link } from 'react-router-dom';
 export default function tuples(){
     return ( 
             <div>
+                <br></br>
                 <p> Tuples, Lists, and Dictionaries in Python</p>
 
             <div class = "grid-container">
@@ -15,7 +16,7 @@ export default function tuples(){
             <p>These data types can be defined using different brackets.</p>
             <p>1. Tuples - (1,2,3)</p>
             <p>2. Lists - [1,2,3]</p>
-            <p>3. Dictionaries - &lbrace1:'a',2:'b',3:'c'&rbrace</p>
+            <p>3. Dictionaries - {"{"}1:'a',2:'b',3:'c'{"}"}</p>
             <p>Both tuples and lists can be referenced by index values.</p>
             <p>Dictionaries are unordered and referenced by their keys.</p>
             
@@ -28,6 +29,8 @@ export default function tuples(){
             <Button variant="contained" >
             <Link className="next" to="/variableDef"> Next </Link>
             </Button>
+            <br></br>
+            <br></br>
             </div>   
     );
 }

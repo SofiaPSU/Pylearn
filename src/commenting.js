@@ -26,7 +26,7 @@ export default function commenting(){
             <Link className="next" to="/tuples"> Next </Link>
       
             </Button>
-    
+            <br></br>
             </div>   
     );
 }
