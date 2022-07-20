@@ -24,7 +24,7 @@ export default function indentation(){
             </div>
             <Button variant="contained">
             
-            <Link className="next" to="/tuples"> Next </Link>
+            <Link className="next" to="/debug"> Debug </Link>
             </Button>
             </div>   
     );

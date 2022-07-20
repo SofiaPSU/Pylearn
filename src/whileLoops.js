@@ -23,7 +23,7 @@ export default function whileLoops(){
             </div>
 
             <Button variant="contained" >
-            <Link className="next" to="/home"> Next </Link>
+            <Link className="next" to="/indentation"> Next </Link>
             </Button>
     
             </div>   
