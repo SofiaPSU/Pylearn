@@ -1,6 +1,7 @@
 import React from 'react';
 import './variableDef.css';
 import Button from '@mui/material/Button';
+import { Link } from 'react-router-dom'; 
 
 
 
@@ -21,6 +22,11 @@ export default function variableDef(){
             title="print"></iframe>   
             </div>
             </div>
+            <Button variant="contained" >
+            <Link className="next" to="/ifElseStatements"> Next </Link>
+            </Button>
+            <br></br>
+            <br></br>
             </div>   
     );
 }

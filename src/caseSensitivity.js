@@ -8,7 +8,7 @@ import { Link } from 'react-router-dom';
 export default function caseSensitivity(){
     return ( 
             <div>
-                <p> Case Case Sensitivity in Python</p>
+                <p> Case Sensitivity in Python</p>
 
             <div class = "grid-container">
             <div id = "col1" align = "left">
@@ -23,7 +23,6 @@ export default function caseSensitivity(){
 
             <Button variant="contained" >
             <Link className="next" to="/namingVariables"> Next </Link>
-            Next
             </Button>
     
             </div>   

@@ -17,8 +17,7 @@ export default function tuples(){
             <p>1. Tuples - (1,2,3)</p>
             <p>2. Lists - [1,2,3]</p>
             <p>3. Dictionaries - {"{"}1:'a',2:'b',3:'c'{"}"}</p>
-            <p>Both tuples and lists can be referenced by index values.</p>
-            <p>Dictionaries are unordered and referenced by their keys.</p>
+            <p>Both tuples and lists can be referenced by index values. Dictionaries are unordered and referenced by their keys.</p>
             
             </div>
             <div>
@@ -27,7 +26,7 @@ export default function tuples(){
             </div>
             </div>
             <Button variant="contained" >
-            <Link className="next" to="/variableDef"> Next </Link>
+            <Link className="next" to="/strings"> Next </Link>
             </Button>
             <br></br>
             <br></br>

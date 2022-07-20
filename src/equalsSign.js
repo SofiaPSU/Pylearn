@@ -1,6 +1,8 @@
 import React from 'react';
 import './equalsSign.css';
 import Button from '@mui/material/Button';
+import { Link } from 'react-router-dom'; 
+
 
 
 
@@ -21,10 +23,11 @@ export default function equalsSign(){
             </div>
             </div>
 
-            <Button variant="contained" href="indentation.js">
-            Next
+            <Button variant="contained" >
+            <Link className="next" to="/indentation"> Next </Link>
             </Button>
-    
+            <br></br>
+            <br></br>
             </div>   
     );
 }

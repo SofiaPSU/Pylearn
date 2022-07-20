@@ -1,6 +1,7 @@
 import React from 'react';
 import './namingVariables.css';
 import Button from '@mui/material/Button';
+import { Link } from 'react-router-dom';
 
 
 
@@ -21,10 +22,11 @@ export default function namingVariables(){
             </div>
             </div>
 
-            <Button variant="contained" href="indentation.js">
-            Next
+            <Button variant="contained" >
+            <Link className="next" to="/equalsSign"> Next </Link>
             </Button>
-    
+            <br></br>
+            <br></br>
             </div>   
     );
 }

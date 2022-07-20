@@ -27,7 +27,7 @@ export default function HelloWorld(){
 
             <Button variant="contained">
             
-            <Link className="next" to="/commenting"> Next </Link>
+            <Link className="next" to="/caseSensitivity"> Next </Link>
             </Button>
             
             </div>   

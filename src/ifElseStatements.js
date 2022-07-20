@@ -1,6 +1,7 @@
 import React from 'react';
 import './ifElseStatements.css';
 import Button from '@mui/material/Button';
+import { Link } from 'react-router-dom'; 
 
 
 
@@ -22,10 +23,12 @@ export default function ifElseStatements(){
             </div>
             </div>
 
-            <Button variant="contained" href="forLoops.js"> 
-            Next
+            <Button variant="contained">
+            
+            <Link className="next" to="/forLoops"> Next </Link>
             </Button>
-    
+            <br></br>
+            <br></br>
             </div>   
     );
 }

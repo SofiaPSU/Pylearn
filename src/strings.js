@@ -1,6 +1,7 @@
 import React from 'react';
 import './strings.css';
 import Button from '@mui/material/Button';
+import { Link } from 'react-router-dom'; 
 
 
 
@@ -20,9 +21,11 @@ export default function strings(){
             </div>
             </div>
 
-            <Button variant="contained" href="variableDef.js">
-            Next
+            <Button variant="contained" >
+            <Link className="next" to="/variableDef"> Next </Link>
             </Button>
+            <br></br>
+            <br></br>
     
             </div>   
     );

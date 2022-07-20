@@ -1,6 +1,7 @@
 import React from 'react';
 import './forLoops.css';
 import Button from '@mui/material/Button';
+import { Link } from 'react-router-dom'; 
 
 
 
@@ -24,6 +25,11 @@ export default function forLoops(){
             title="print"></iframe>   
             </div>
             </div>
+            <Button variant="contained" >
+            <Link className="next" to="/whileLoops"> Next </Link>
+            </Button>
+            <br></br>
+            <br></br>
             </div>   
     );
 }
