@@ -23,7 +23,7 @@ export default function debug(){
 <br></br>
             <Button variant="contained">
             
-            <Link className="next" to="/commenting"> Continue </Link>
+            <Link className="next" to="/frameSeven"> Continue </Link>
             </Button>
             
             </div>   

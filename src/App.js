@@ -16,6 +16,7 @@ import ForLoops from "./forLoops";
 import WhileLoops from "./whileLoops";
 import EqualsSign from "./equalsSign";
 import Strings from "./strings";
+import FrameSeven from "./frameSeven";
 
 function App() {
   return (
@@ -41,6 +42,7 @@ function App() {
       <Route path="/whileLoops" element = {<WhileLoops/>}/>
       <Route path="/equalsSign" element = {<EqualsSign/>}/>
       <Route path="/strings" element = {<Strings/>}/>
+      <Route path="/frameSeven" element = {<FrameSeven/>}/>
     </Routes>
   </div>
   </BrowserRouter>
