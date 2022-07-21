@@ -14,7 +14,8 @@ export default function frameSeven(){
             <center>
             <iframe src="https://trinket.io/embed/python/969b166814" width="500" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen
             title="print"></iframe> 
-            <p>__ __    __ __ __    __ __ __</p>
+            <br></br>
+            <p>__ __ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__ __ __ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __ __ __</p>
             </center>
             
 
