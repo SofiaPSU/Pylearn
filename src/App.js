@@ -47,8 +47,9 @@ function App() {
       <Route path="/equalsSign" element = {<EqualsSign/>}/>
       <Route path="/strings" element = {<Strings/>}/>
       <Route path="/frameSeven" element = {<FrameSeven/>}/>
-      <Route path="/frameTwenty" element = {<FrameSeven/>}/>
-      <Route path="/frameTwentyTwo" element = {<FrameSeven/>}/>
+      <Route path="/frameTwenty" element = {<FrameTwenty/>}/>
+      <Route path="/frameTwentyTwo" element = {<FrameTwentyTwo/>}/>
+      <Route path="/frameTwentyFive" element = {<FrameTwentyFive/>}/>
     </Routes>
   </div>
   </BrowserRouter>
