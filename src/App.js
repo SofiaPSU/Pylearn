@@ -21,6 +21,8 @@ import FrameNineteen from "./frameNineteen";
 import FrameTwenty from "./frameTwenty";
 import FrameTwentyOne from "./frameTwentyOne";
 import FrameTwentyTwo from "./frameTwentyTwo";
+import FrameTwentyThree from "./frameTwentyThree";
+import FrameTwentyFour from "./frameTwentyFour";
 import FrameTwentyFive from "./frameTwentyFive";
 
 
@@ -53,6 +55,8 @@ function App() {
       <Route path="/frameTwenty" element = {<FrameTwenty/>}/>
       <Route path="/frameTwentyOne" element = {<FrameTwentyOne/>}/>
       <Route path="/frameTwentyTwo" element = {<FrameTwentyTwo/>}/>
+      <Route path="/frameTwentyThree" element = {<FrameTwentyThree/>}/>
+      <Route path="/frameTwentyFour" element = {<FrameTwentyFour/>}/>
       <Route path="/frameTwentyFive" element = {<FrameTwentyFive/>}/>
     </Routes>
   </div>
