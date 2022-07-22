@@ -18,6 +18,7 @@ import EqualsSign from "./equalsSign";
 import Strings from "./strings";
 import FrameSeven from "./frameSeven";
 import FrameTwenty from "./frameTwenty";
+import FrameTwentyOne from "./frameTwentyOne";
 import FrameTwentyTwo from "./frameTwentyTwo";
 import FrameTwentyFive from "./frameTwentyFive";
 
@@ -48,6 +49,7 @@ function App() {
       <Route path="/strings" element = {<Strings/>}/>
       <Route path="/frameSeven" element = {<FrameSeven/>}/>
       <Route path="/frameTwenty" element = {<FrameTwenty/>}/>
+      <Route path="/frameTwentyOne" element = {<FrameTwentyOne/>}/>
       <Route path="/frameTwentyTwo" element = {<FrameTwentyTwo/>}/>
       <Route path="/frameTwentyFive" element = {<FrameTwentyFive/>}/>
     </Routes>

@@ -20,7 +20,7 @@ export default function frameTwenty(){
             
 
             <Button variant="contained" >
-            <Link className="next" to="/frameTwentyTwo"> Continue </Link>
+            <Link className="next" to="/frameTwentyOne"> Continue </Link>
             </Button>
             <br></br>
             <br></br>
