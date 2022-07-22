@@ -18,6 +18,7 @@ import EqualsSign from "./equalsSign";
 import Strings from "./strings";
 import FrameSeven from "./frameSeven";
 import FrameTwenty from ".frameTwenty";
+import FrameTwentyTwo from ".frameTwentyTwo";
 
 
 function App() {
@@ -46,6 +47,7 @@ function App() {
       <Route path="/strings" element = {<Strings/>}/>
       <Route path="/frameSeven" element = {<FrameSeven/>}/>
       <Route path="/frameTwenty" element = {<FrameSeven/>}/>
+      <Route path="/frameTwentyTwo" element = {<FrameSeven/>}/>
     </Routes>
   </div>
   </BrowserRouter>
