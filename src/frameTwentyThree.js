@@ -15,7 +15,7 @@ export default function frameTwentyThree(){
             <iframe src="https://trinket.io/embed/python/56fe060f93" width="500" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen
             title="print"></iframe> 
             <br></br>
-            <p>W E &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A R __ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __ __ __</p>
+            <p>W E &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A R E &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __ __ __</p>
             </center>
             
 

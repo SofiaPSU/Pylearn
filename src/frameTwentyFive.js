@@ -20,7 +20,7 @@ export default function frameTwentyFive(){
             
 
             <Button variant="contained" >
-            <Link className="next" to="/debug"> Continue </Link>
+            <Link className="next" to="/finalDebug"> Continue </Link>
             </Button>
             <br></br>
             <br></br>

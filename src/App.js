@@ -24,6 +24,7 @@ import FrameTwentyTwo from "./frameTwentyTwo";
 import FrameTwentyThree from "./frameTwentyThree";
 import FrameTwentyFour from "./frameTwentyFour";
 import FrameTwentyFive from "./frameTwentyFive";
+import FinalDebug from "./finalDebug";
 
 
 function App() {
@@ -58,6 +59,7 @@ function App() {
       <Route path="/frameTwentyThree" element = {<FrameTwentyThree/>}/>
       <Route path="/frameTwentyFour" element = {<FrameTwentyFour/>}/>
       <Route path="/frameTwentyFive" element = {<FrameTwentyFive/>}/>
+      <Route path="/finalDebug" element = {<FinalDebug/>}/>
     </Routes>
   </div>
   </BrowserRouter>
