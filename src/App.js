@@ -17,8 +17,9 @@ import WhileLoops from "./whileLoops";
 import EqualsSign from "./equalsSign";
 import Strings from "./strings";
 import FrameSeven from "./frameSeven";
-import FrameTwenty from ".frameTwenty";
-import FrameTwentyTwo from ".frameTwentyTwo";
+import FrameTwenty from "./frameTwenty";
+import FrameTwentyTwo from "./frameTwentyTwo";
+import FrameTwentyFive from "./frameTwentyFive";
 
 
 function App() {
