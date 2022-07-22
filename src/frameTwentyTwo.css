@@ -1,0 +1,14 @@
+
+.next{
+
+    color:whitesmoke;
+}
+
+.next:link{
+    background-color: none;
+    text-decoration: none;
+}
+.next:visited{
+    background-color: none;
+    text-decoration: none;
+}
