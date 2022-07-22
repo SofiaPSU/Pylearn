@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom';
 
 
 
-export default function frameSeven(){
+export default function frameTwentyOne(){
     return ( 
             <div>
                 <br></br>

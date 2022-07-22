@@ -17,6 +17,7 @@ import WhileLoops from "./whileLoops";
 import EqualsSign from "./equalsSign";
 import Strings from "./strings";
 import FrameSeven from "./frameSeven";
+import FrameNineteen from "./frameNineteen";
 import FrameTwenty from "./frameTwenty";
 import FrameTwentyOne from "./frameTwentyOne";
 import FrameTwentyTwo from "./frameTwentyTwo";
@@ -48,6 +49,7 @@ function App() {
       <Route path="/equalsSign" element = {<EqualsSign/>}/>
       <Route path="/strings" element = {<Strings/>}/>
       <Route path="/frameSeven" element = {<FrameSeven/>}/>
+      <Route path="/frameNineteen" element = {<FrameNineteen/>}/>
       <Route path="/frameTwenty" element = {<FrameTwenty/>}/>
       <Route path="/frameTwentyOne" element = {<FrameTwentyOne/>}/>
       <Route path="/frameTwentyTwo" element = {<FrameTwentyTwo/>}/>
