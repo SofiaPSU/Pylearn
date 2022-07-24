@@ -12,7 +12,7 @@ export default function frameTwentyFour(){
                 <p>Debugging Practice #7</p>
 
             <center>
-            <iframe src="https://trinket.io/embed/python/56fe060f93" width="500" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen
+            <iframe src="https://trinket.io/embed/python/5ea4e244e5" width="500" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen
             title="print"></iframe> 
             <br></br>
             <p>W E &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A R E &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P __ __</p>
