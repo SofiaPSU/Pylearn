@@ -10,9 +10,11 @@
     padding-right: 30px;
 
 }
-
-.next-btn {
-    padding:15%;
+.center{
+    align-items: center;
+}
+.text{
+    align-items: left;
 }
 
 .next{

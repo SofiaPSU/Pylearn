@@ -15,7 +15,7 @@ export default function debug(){
             <p>3. Explain your code to someone else or talk through it. </p>
             <p>4. Draw out your code.</p>
             <p>5. Go line by line and check the actual function of each line. </p>
-            <p>6. Look for syntax errors and check the Terminal explanation. </p>
+            <p>6. Look for syntax errors and check the terminal explanation. </p>
             <p>7. Using print and variables in between your code to check until where it works correctly. </p>
             <p>8. Check your variable names and assignment operators. </p>
             </div>
