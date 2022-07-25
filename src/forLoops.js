@@ -16,7 +16,7 @@ const MyGrid = styled('Grid')({
 export default function forLoops() {
     return (
         <div>
-            <p> For Loops in Python</p>
+            <p> For Loops </p>
             <Grid container spacing={12} wrap="nowrap" className='center'>
                 <MyGrid item xs={6} align="left"  >
                     <p>A for loop repeats a fixed number of times or iterates over a sequence like a list or tuple.</p>

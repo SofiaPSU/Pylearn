@@ -17,16 +17,16 @@ const MyGrid = styled('Grid')({
 export default function equalsSign() {
     return (
         <div>
-            <p> The Equals Sign in Python</p>
+            <p> The Equals Sign </p>
             <Grid container spacing={12} wrap="nowrap" className='center'>
                 <MyGrid item xs={6} align="left"  >
 
-                    <p>1. In Python, there is a very important difference between "=" and "==".</p>
-                    <p>2. "=" is an assignment operator and assigns values to variables.</p>
-                    <p>3. "==" is a symbol that indicates equality between to variables.</p>
+                    <p> In Python, there is a very important difference between "=" and "==".</p>
+                    <p>1. "=" is an assignment operator and assigns values to variables.</p>
+                    <p>2. "==" is a symbol that indicates equality between two variables.</p>
                 </MyGrid>
                 <Grid item xs={6} paddingRight={10}>
-                    <iframe src="https://trinket.io/embed/python/3e44b19127" width="500" height="500" align="center" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen
+                    <iframe src="https://trinket.io/embed/python/6a3884f3a8" width="500" height="500" align="center" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen
                         title="print"></iframe>
                 </Grid>
             </Grid>

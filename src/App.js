@@ -1,5 +1,5 @@
 import './App.css';
-import React from 'react';
+import React, { useEffect } from 'react';
 import {BrowserRouter, Routes, Route} from "react-router-dom";
 import Home from "./home";
 import Navbar from "./navbar";
@@ -28,6 +28,11 @@ import FinalDebug from "./finalDebug";
 
 
 function App() {
+
+  useEffect(() => {
+    document.title="Python 101"
+   
+  })
   return (
 <div className="App">
   <BrowserRouter>

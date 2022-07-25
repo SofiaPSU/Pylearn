@@ -16,7 +16,7 @@ const MyGrid = styled('Grid')({
 export default function indentation() {
     return (
         <div>
-            <p> Indentation Sensitivity in Python</p>
+            <p> Indentation Sensitivity </p>
             <Grid container spacing={12} wrap="nowrap" className='center'>
                 <MyGrid item xs={6} align="left"  >
 

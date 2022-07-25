@@ -16,7 +16,7 @@ const MyGrid = styled('Grid')({
 export default function whileLoops() {
     return (
         <div>
-            <p> While Loops in Python</p>
+            <p> While Loops </p>
             <Grid container spacing={12} wrap="nowrap" className='center'>
                 <MyGrid item xs={6} align="left"  >
 

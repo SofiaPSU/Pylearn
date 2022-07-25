@@ -16,7 +16,7 @@ const MyGrid = styled('Grid')({
 export default function strings() {
     return (
         <div>
-            <p> Strings in Python</p>
+            <p> Strings </p>
             <Grid container spacing={12} wrap="nowrap" className='center'>
                 <MyGrid item xs={6} align="left"  >
 

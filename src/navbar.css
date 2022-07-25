@@ -1,12 +1,12 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Crafty+Girls&display=swap');
-  .wepo-title{
+.wepo-title{
     font-family : 'Crafty Girls';
     color: whitesmoke;
     font-size: 40px;
     margin-left: 0;
    
-    
+
 }
 .position{
     float:left;

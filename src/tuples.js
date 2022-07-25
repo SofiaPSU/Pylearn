@@ -17,7 +17,7 @@ export default function tuples() {
     return (
         <div>
             <br></br>
-            <p> Tuples, Lists, and Dictionaries in Python</p>
+            <p> Tuples, Lists, and Dictionaries </p>
             <Grid container spacing={12} wrap="nowrap" className='center'>
                 <MyGrid item xs={6} align="left"  >
 

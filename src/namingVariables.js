@@ -16,11 +16,11 @@ const MyGrid = styled('Grid')({
 export default function namingVariables(){
     return ( 
             <div>
-                <p> Naming Variables in Python</p>
+                <p> Naming Variables </p>
 
             <Grid container spacing={12} wrap="nowrap" className='center'>
                 <MyGrid item xs={6} align="left">
-            <p>1. Variable names must start with a letter of underscore.</p>
+            <p>1. Variable names must start with a letter or underscore.</p>
             <p>2. Variable names cannot start with a number or special character.</p>
             <p>3. Variable names can only contain alphanumeric values and underscores.</p>
             </MyGrid>

@@ -16,7 +16,7 @@ const MyGrid = styled('Grid')({
 export default function caseSensitivity() {
     return (
         <div>
-            <p> Case Sensitivity in Python</p>
+            <p> Case Sensitivity </p>
             <Grid container spacing={12} wrap="nowrap" className='center'>
                 <MyGrid item xs={6} align="left"  >
                     <p>1. Python is case sensitive.</p>
