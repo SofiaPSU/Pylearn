@@ -15,12 +15,12 @@ export default function frameNineteen(){
             <iframe src="https://trinket.io/embed/python/119d00dea6" width="500" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen
             title="print"></iframe> 
             <br></br>
-            <p>W __ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__ __ __ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __ __ __</p>
+            <p>W E &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__ __ __ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __ __ __</p>
             </center>
             
 
             <Button variant="contained" >
-            <Link className="next" to="/frameTwenty"> Continue </Link>
+            <Link className="next" to="/frameTwentyOne"> Continue </Link>
             </Button>
             <br></br>
             <br></br>
