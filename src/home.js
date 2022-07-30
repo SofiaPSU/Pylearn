@@ -33,6 +33,10 @@ export default function Home(){
             
     
     </Grid>
+    <Button variant="contained" >
+    <Link className="about" to="/about"> About </Link>
+    </Button>
+
         
         </div>
       );

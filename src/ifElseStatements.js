@@ -16,7 +16,7 @@ const MyGrid = styled('Grid')({
 export default function ifElseStatements(){
     return ( 
             <div>
-                <p> If/Else Statements in Python</p>
+                <p> If/Else Statements </p>
                 <Grid container spacing={12} wrap="nowrap" className='center'>
                 <MyGrid item xs={6} align="left"  >
            

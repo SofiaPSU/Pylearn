@@ -25,7 +25,7 @@ import FrameTwentyThree from "./frameTwentyThree";
 import FrameTwentyFour from "./frameTwentyFour";
 import FrameTwentyFive from "./frameTwentyFive";
 import FinalDebug from "./finalDebug";
-
+import About from "./about"
 
 function App() {
 
@@ -65,6 +65,7 @@ function App() {
       <Route path="/frameTwentyFour" element = {<FrameTwentyFour/>}/>
       <Route path="/frameTwentyFive" element = {<FrameTwentyFive/>}/>
       <Route path="/finalDebug" element = {<FinalDebug/>}/>
+      <Route path="/about" element={<About/>}/>
     </Routes>
   </div>
   </BrowserRouter>
