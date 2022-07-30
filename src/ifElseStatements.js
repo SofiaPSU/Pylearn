@@ -33,7 +33,7 @@ export default function ifElseStatements(){
 
             <Button variant="contained">
             
-            <Link className="next" to="/forLoops"> Next </Link>
+            <Link className="next" to="/debug"> Next </Link>
             </Button>
             <br></br>
             <br></br>
